@@ -6,21 +6,21 @@ var animals = [
 			en: 'cow',
 			fr: 'la vache'
 		}],
-		image:'cow-1.png'
+		image:'images/cow-1.png'
 	},
 	{
 		name: [{
 			en: 'cat',
 			fr: 'le chat'
 		}],
-		image:'cat-1.png'
+		image:'images/cat-1.png'
 	},
 	{
 		name: [{
 			en: 'dog',
 			fr: 'le chien'
 		}],
-		image: 'dog-1.png'
+		image: 'images/dog-1.png'
 	},
 	{
 		name:'owl',
