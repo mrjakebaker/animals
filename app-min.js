@@ -6,21 +6,21 @@ var animals = [
 			en: 'cow',
 			fr: 'la vache'
 		}],
-		image:'https://media.mnn.com/assets/images/2017/01/cow-in-pasture.jpg.838x0_q80.jpg'
+		image:'cow-1.png'
 	},
 	{
 		name: [{
 			en: 'cat',
 			fr: 'le chat'
 		}],
-		image:'https://static.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg'
+		image:'cat-1.png'
 	},
 	{
 		name: [{
 			en: 'dog',
 			fr: 'le chien'
 		}],
-		image: 'https://www.runnersworld.com/sites/runnersworld.com/files/styles/listicle_slide_custom_user_phone_1x/public/beagle2.jpg'
+		image: 'dog-1.png'
 	},
 	{
 		name:'owl',
