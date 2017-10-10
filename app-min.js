@@ -84,10 +84,10 @@ function generateAnimal() {
 	}
 
 	function displayAnimal(newAnimal){
-		$(".animal-wrapper").fadeOut(0);
+		//$(".animal-wrapper").fadeOut(0);
 		$(".animal img").attr("src", newAnimal.image);
 		$(".animal-wrapper h1").html(newAnimal.name[0].en + ' / ' +newAnimal.name[0].fr );
-		$(".animal-wrapper").fadeIn();
+		//$(".animal-wrapper").fadeIn();
 
 	}
 	
