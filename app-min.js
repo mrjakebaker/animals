@@ -36,7 +36,7 @@ var animals = [
 	},
 	{
 		name: 'elephant',
-		image: 'https://www.factslides.com/imgs/elephant-white.jpg'
+		image: 'images/elephant-1.png'
 	},
 	{
 		name: 'hippo',
