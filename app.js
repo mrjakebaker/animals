@@ -56,7 +56,7 @@ var animals = [
 	},
 	{
 		name: 'duck',
-		image: 'https://cdn.pixabay.com/photo/2017/03/26/04/28/duck-2174842_960_720.jpg'
+		image: 'images/duck-1.jpeg'
 	}
 ];
 
